@@ -1,0 +1,1 @@
+One important thing I’ve learned so far in this course is how to effectively use Git and GitHub for version control. I now understand how to clone a repository, create branches, make changes locally, and push updates to a remote repository.
